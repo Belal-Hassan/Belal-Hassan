@@ -1,6 +1,6 @@
 # 💫 About Me:
 - Currently deepening my understanding of embedded systems
-- Learning digital IC design & analog electronics
+- Learning digital logic design
 - Obsessed with combinatorics
 
 
