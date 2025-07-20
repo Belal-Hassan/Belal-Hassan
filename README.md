@@ -1,5 +1,4 @@
 # 💫 About Me:
-- Currently deepening my understanding of embedded systems
 - Learning digital logic design
 - Obsessed with combinatorics
 
